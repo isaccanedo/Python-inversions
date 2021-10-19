@@ -1,0 +1,2 @@
+# Python-inversions
+:snowman: Dada uma estrutura de dados tipo array A [1..n], quantos pares (i, j) para todo 1 &lt;= i &lt;j &lt;= n tal que A [i]> A [j]? Esses pares são chamados de inversões. Contar o número de tais inversões em um objeto do tipo matriz é o importante. Entre outras coisas, a contagem de inversões pode nos ajudar a determinar o quão perto uma determinada matriz está de ser classificada
